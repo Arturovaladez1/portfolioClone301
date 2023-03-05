@@ -5,13 +5,23 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Arturovaladez1",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/arturo.softwaredev/",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/arturocvaladez/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/channel/UCjS_usLNfb6uyGoOWyDumBQ",
+          "class": "fab fa-youtube"
         }
       ],
       "image": "myProfile.jpg"
@@ -29,24 +39,9 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
         },
         {
           "name": "Bootstrap",
@@ -54,15 +49,12 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "60"
         }
       ]
     }
   }
+
+
