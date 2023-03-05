@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Arturo C Valadez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Arturo C Valadez, a US Navy veteran⚓️, front-end developer and a full-time dog Dad. 🐶roof-roof. I am well versed in Javascript, css, html and react. If you are looking for a outside the box thinker, creative developer and passionate learner, then you got the right guy! Thanks for taking a look. 💙",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,108 +11,156 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Aperture Photography studios",
+        "startDate": "2023",
+        "description": "A photography studio website I had the opportunity to help create for a group class project. I've learned many technologies and my code was reviewed by my fellow developers and instructors. This website handles all photography session booking processess and allows to store all appointments in local storage.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/aperture/Apert1.png",
+          "images/portfolio/aperture/Apert2.png",
+          "images/portfolio/aperture/Apert3.png"
         ],
-        "url": "",
+        "url": "https://github.com/Arturovaladez1",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "Html"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies",
+        "startDate": "2023",
+        "description": "Class project for my foundationd of software development course. I was resposible for creating a concept application to calculate the number of cookies each location must make every day so that it can manage its supplies inventory and baking schedule. In addition, I also had to create a public-facing page for the store. I've earned A grade :)",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/salmoncookies/Cookie1.png",
+          "images/portfolio/salmoncookies/Cookie2.png",
+          "images/portfolio/salmoncookies/Cookie3.png"
+
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Arturovaladez1",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "Html"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "css"
+          }
+        ]
+      },
+      {
+        "title": "Odd Duck",
+        "startDate": "2023",
+        "description": "I created an algorithm that would randomly generate three unique product images and display them in the browser window. with the ability to view a report of results after all rounds of voting and a visual representation utilizing chartJS. I've learned a lot!",
+        "images": [
+          "images/portfolio/odd_duck/OddDuck1.png",
+          "images/portfolio/odd_duck/OddDuck2.png"
+        ],
+        "url": "https://github.com/Arturovaladez1",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CodeFellows",
+        "title": "Full stack software development",
+        "years": "1.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Full Stack"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "",
+          "",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "CSS3",
+          "Html5",
+          "Figma",
+          "Trello"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "City of San Jacinto",
+        "title": "Public Works Maintenance II",
+        "years": "02.2022 - 01.2023",
         "mainTech": [
-          "Angular 7/8"
+          "City Employee"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Asphalt program management",
+          "Crew leader",
+          "Class A licensed",
+          "Concrete development member",
+          "Community developmet",
+          "Traffic control certified"
+          
         ]
+        
+      },
+      {
+        "company": "American General Contracting",
+        "title": "Project Management",
+        "years": "10.2020 - 02.2022",
+        "mainTech": [
+          "Owner Operator"
+        ],
+        "technologies": [
+          "Asphalt installations ",
+          "Protective coating technologies",
+          "Hazardous materiel handling ",
+          "Bid allocations",
+          "Client services",
+          "Estimatation and project proposals",
+          "Company financing",
+          "Company marketing and branding"
+          
+        ]
+        
+      },
+      {
+        "company": "United States Navy",
+        "title": "Damage Controlman",
+        "years": "10.2016 - 10.2020",
+        "mainTech": [
+          "Departmant Of Defense"
+        ],
+        "technologies": [
+          "Vessel boarding search & seizure",
+          "Naval vessel firefighting instructor",
+          "Engineering plant operator",
+          "Auxilary systems technician",
+          "Secret clearance",
+          "Engineering training team member",
+          "Security reaction force"
+        ]
+        
       }
     ]
   }
